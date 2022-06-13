@@ -1,0 +1,16 @@
+name: HollowCore
+version: '${project.version}'
+main: com.realxode.hollowcore.HollowCore
+api-version: 1.19
+authors: [ RealXode ]
+description: A Core for your server
+commands:
+  gamemode:
+    description: Change your gamemode
+    aliases:
+      - gamem
+      - gm
+  fly:
+    description: Change your fly mode
+  speed:
+    description: Change player speed
